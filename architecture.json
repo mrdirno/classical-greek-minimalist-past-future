@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_minimalist_past_future",
+  "title": "The Marble and the Earth",
+  "tagline": "In a hidden sanctuary of stone, a woman must unlearn her past to forge a new future.",
+  "target_words": 70000,
+  "actual_words": 83833,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Discipline of Silence",
+    "The Geometry of Nature",
+    "Unlearning Identity",
+    "The Austere Future"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Throat of the Island",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "The Symphony of Pain",
+      "words": 3500
+    },
+    {
+      "ch": 3,
+      "title": "The Green Mist",
+      "words": 3500
+    },
+    {
+      "ch": 4,
+      "title": "The First Question",
+      "words": 3500
+    },
+    {
+      "ch": 5,
+      "title": "The Weight of Water",
+      "words": 3500
+    },
+    {
+      "ch": 6,
+      "title": "Kyna's Silence",
+      "words": 3500
+    },
+    {
+      "ch": 7,
+      "title": "The Weaving of Reeds",
+      "words": 3500
+    },
+    {
+      "ch": 8,
+      "title": "The Dream of Waves",
+      "words": 3500
+    },
+    {
+      "ch": 9,
+      "title": "The Broken Tool",
+      "words": 3500
+    },
+    {
+      "ch": 10,
+      "title": "The Lesson of the Cypress",
+      "words": 3500
+    },
+    {
+      "ch": 11,
+      "title": "The Unseen Pattern",
+      "words": 3500
+    },
+    {
+      "ch": 12,
+      "title": "The Arrival",
+      "words": 3500
+    },
+    {
+      "ch": 13,
+      "title": "The Memory in Marble",
+      "words": 3500
+    },
+    {
+      "ch": 14,
+      "title": "The Second Plot",
+      "words": 3500
+    },
+    {
+      "ch": 15,
+      "title": "The Silent Feast",
+      "words": 3500
+    },
+    {
+      "ch": 16,
+      "title": "The Storm Within",
+      "words": 3500
+    },
+    {
+      "ch": 17,
+      "title": "The Crack in the Cube",
+      "words": 3500
+    },
+    {
+      "ch": 18,
+      "title": "The Name Unspoken",
+      "words": 3500
+    },
+    {
+      "ch": 19,
+      "title": "The Choice of the Cliff",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "The Essential Line",
+      "words": 3500
+    },
+    {
+      "ch": 21,
+      "title": "The Harvest of Stones",
+      "words": 3500
+    },
+    {
+      "ch": 22,
+      "title": "The Final Weave",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "The Doorway Unbound",
+      "words": 3500
+    },
+    {
+      "ch": 24,
+      "title": "The Breath of the Rock",
+      "words": 3500
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Elara must teach the discipline to a new, resistant arrival.",
+      "Describe a day in the life of Kyna before she came to the island.",
+      "Create a myth or parable that Silenus might tell without words, using only objects in the garden.",
+      "Write the moment, years later, when Elara first breaks a rule of the askēsis and speaks out of turn."
+    ],
+    "technical": [
+      "Build a text-based simulation of the garden, where resource management (water, seed, effort) must be balanced against the 'noise' of emotional states.",
+      "Create a minimalist UI/visualizer that translates the novel's prose into interactive geometric forms and soundscapes based on sentence structure and thematic keywords."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marcus Aurelius",
+      "Marguerite Yourcenar",
+      "John Cage",
+      "Ludwig Wittgenstein"
+    ]
+  },
+  "cover_prompt": "A solitary woman in a simple chiton stands within a vast, geometric sanctuary carved from white marble and dark basalt, her hands resting on a colossal, perfectly smooth sphere that emerges from the rough-hewn floor, symbolizing the tension between human order and raw nature. The scene is set within a vast, hypostyle hall of towering, minimalist Doric columns under a cavernous ceiling, where creeping vines and geometric shadows from unseen light sources create a living pattern of discipline and wild growth, evoking a future where classical architecture has been reclaimed by the earth. In the stark, atmospheric style of Giorgio de Chirico's metaphysical paintings and the serene, monumental emptiness of Hiroshi Sugimoto's seascapes, rendered with the precise, luminous detail of a large format photograph. Book cover framing, centered and symmetrical composition with a dramatic low-angle shot looking up at the figure and the sphere, emphasizing scale and awe. Dramatic chiaroscuro lighting with sharp, long shadows and a single, strong raking light source, casting deep geometric patterns, within a restrained color palette of bone white marble, cool grey basalt, muted terracotta, and the deep green of resilient moss. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
