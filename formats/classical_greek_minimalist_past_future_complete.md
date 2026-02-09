@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The stone was cool against her cheek. Not the dry, dusty cool of a tomb, but the damp, living cool of a thing that breathed with the earth. Elara kept her eyes closed. She counted the breaths of the rock. One. The distant sigh of the sea through a thousand fissures. Two. The minute shift of a pebble, settling in its bed. Three. Her own heart, a faint, frantic drum against the stone’s vast, patient silence.
+Kleon’s chisel bit marble, each strike echoing the one before. Dust settled in the grooves of yesterday’s heroes. He carved not what was, but the clean, empty line of what would be—a future already written in the stone of the past.
+
 
 She opened her eyes. Above her, the sky was a narrow ribbon of bleached white, framed by the sheer, weeping walls of the cleft. She was in the throat of the island. She pushed herself up, palms scraping on wet moss. Her chiton, once the colour of undyed wool, was stained with earth and salt. She wore no pins, no fibulae; the cloth was simply folded and belted with a length of rope. Her feet were bare, the soles tough as old leather.
 
